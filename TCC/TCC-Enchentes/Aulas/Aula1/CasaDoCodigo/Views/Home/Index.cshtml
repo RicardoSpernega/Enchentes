@@ -1,0 +1,8 @@
+﻿@model ProjetoTCC.Models.Siglas.CondicaoDoTempo
+@{
+    ViewData["Title"] = "Condições do tempo";
+}
+
+<h2>Index</h2>
+
+@Html.DropDownListFor(x => x.Sigla, new SelectList(ViewBag.Condicoes, "Sigla", "Descricao"))

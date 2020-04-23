@@ -1,0 +1,176 @@
+[
+  {
+    "Sigla": "ec",
+    "Descricao": "Encoberto com Chuvas Isoladas"
+  },
+  {
+    "Sigla": "ci",
+    "Descricao": "Chuvas Isoladas"
+  },
+  {
+    "Sigla": "c",
+    "Descricao": "Chuva"
+  },
+  {
+    "Sigla": "in",
+    "Descricao": "Instável"
+  },
+  {
+    "Sigla": "pp",
+    "Descricao": "Poss. de Pancadas de Chuva"
+  },
+  {
+    "Sigla": "cm",
+    "Descricao": "Chuva pela Manhã"
+  },
+  {
+    "Sigla": "cn",
+    "Descricao": "Chuva a Noite"
+  },
+  {
+    "Sigla": "pt",
+    "Descricao": "Pancadas de Chuva a Tarde"
+  },
+  {
+    "Sigla": "pm",
+    "Descricao": "Pancadas de Chuva pela Manhã"
+  },
+  {
+    "Sigla": "np",
+    "Descricao": "Nublado e Pancadas de Chuva"
+  },
+  {
+    "Sigla": "pc",
+    "Descricao": "Pancadas de Chuva"
+  },
+  {
+    "Sigla": "pn",
+    "Descricao": "Parcialmente Nublado"
+  },
+  {
+    "Sigla": "cv",
+    "Descricao": "Chuvisco"
+  },
+  {
+    "Sigla": "pn",
+    "Descricao": "Parcialmente Nublado"
+  },
+  {
+    "Sigla": "ch",
+    "Descricao": "Chuvoso"
+  },
+  {
+    "Sigla": "t",
+    "Descricao": "Tempestade"
+  },
+  {
+    "Sigla": "ps",
+    "Descricao": "Predomínio de Sol"
+  },
+  {
+    "Sigla": "e",
+    "Descricao": "Encoberto"
+  },
+  {
+    "Sigla": "n",
+    "Descricao": "Nublado"
+  },
+  {
+    "Sigla": "cl",
+    "Descricao": "Céu Claro"
+  },
+  {
+    "Sigla": "nv",
+    "Descricao": "Nevoeiro"
+  },
+  {
+    "Sigla": "g",
+    "Descricao": "Geada"
+  },
+  {
+    "Sigla": "g",
+    "Descricao": "Geada"
+  },
+  {
+    "Sigla": "ne",
+    "Descricao": "Neve"
+  },
+  {
+    "Sigla": "nd",
+    "Descricao": "Não Definido"
+  },
+  {
+    "Sigla": "pnt",
+    "Descricao": "Pancadas de Chuva a Noite"
+  },
+  {
+    "Sigla": "psc",
+    "Descricao": "Possibilidade de Chuva"
+  },
+  {
+    "Sigla": "pcm",
+    "Descricao": "Possibilidade de Chuva pela Manhã"
+  },
+  {
+    "Sigla": "pct",
+    "Descricao": "Possibilidade de Chuva a Tarde"
+  },
+  {
+    "Sigla": "pcm",
+    "Descricao": "Possibilidade de Chuva pela Manhã"
+  },
+  {
+    "Sigla": "pcn",
+    "Descricao": "Possibilidade de Chuva a Noite"
+  },
+  {
+    "Sigla": "npt",
+    "Descricao": "Nublado com Pancadas a Tarde"
+  },
+  {
+    "Sigla": "npn",
+    "Descricao": "Nublado com Pancadas a Noite"
+  },
+  {
+    "Sigla": "ncn",
+    "Descricao": "Nublado com Poss. de Chuva a Noite"
+  },
+  {
+    "Sigla": "nct",
+    "Descricao": "Nublado com Poss. de Chuva a Tarde"
+  },
+  {
+    "Sigla": "ncm",
+    "Descricao": "Nubl. c/ Poss. de Chuva pela Manhã"
+  },
+  {
+    "Sigla": "npm",
+    "Descricao": "\tNublado com Pancadas pela Manhã"
+  },
+  {
+    "Sigla": "npp",
+    "Descricao": "Nublado com Possibilidade de Chuva"
+  },
+  {
+    "Sigla": "vn",
+    "Descricao": "Variação de Nebulosidade"
+  },
+  {
+    "Sigla": "ct",
+    "Descricao": "Chuva a Tarde"
+  },
+  {
+    "Sigla": "ppn",
+    "Descricao": "Poss. de Panc. de Chuva a Noite"
+  },
+  {
+    "Sigla": "ppt",
+    "Descricao": "Poss. de Panc. de Chuva a Tarde"
+  },
+  {
+    "Sigla": "ppm",
+    "Descricao": "Poss. de Panc. de Chuva pela Manhã"
+  }
+]
+	
+	
