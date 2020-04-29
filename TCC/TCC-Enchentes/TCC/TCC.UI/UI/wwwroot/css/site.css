@@ -44,13 +44,12 @@ textarea {
 }
 
 .navbar-brand {
-    background: url('../images/logo.png');
     width: 215px;
     height: 55px;
+    color:white;
 }
 
 .navbar-inverse {
-    background-color: #f8965d;
     border-color: white;
 }
 
@@ -59,28 +58,3 @@ textarea {
     align-items: center;
 }
 
-.img-produto-carrossel {
-    width: 100%;
-}
-
-.img-produto-carrinho {
-    height: 120px;
-    filter: drop-shadow(2px 2px 2px #ccc);
-}
-
-.linha-produto {
-    margin: 20px;
-}
-
-.produto-nome {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-.produto-footer {
-    max-height: 140px;
-}
-
-.produto-nome {
-}

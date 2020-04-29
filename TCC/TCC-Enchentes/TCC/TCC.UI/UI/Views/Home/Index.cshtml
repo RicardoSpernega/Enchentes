@@ -6,3 +6,10 @@
 <h2>Index</h2>
 
 @Html.DropDownListFor(x => x.Sigla, new SelectList(ViewBag.Condicoes, "Sigla", "Descricao"))
+
+<div>
+    <label asp-for="Descricao"></label>
+    <input asp-for="Descricao" class="form-control" />
+</div>
+<button type="submit" class="btn btn-primary">Buscar</button>
+
